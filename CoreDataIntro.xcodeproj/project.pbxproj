@@ -49,6 +49,7 @@
 		631A949925CBEBA2002F4C92 /* CoreDataIntroUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CoreDataIntroUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		631A949D25CBEBA2002F4C92 /* CoreDataIntroUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoreDataIntroUITests.swift; sourceTree = "<group>"; };
 		631A949F25CBEBA2002F4C92 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		631A94AE25CBF16A002F4C92 /* CoreDataIntro 2.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = "CoreDataIntro 2.xcdatamodel"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -587,9 +588,10 @@
 		631A948625CBEBA1002F4C92 /* CoreDataIntro.xcdatamodeld */ = {
 			isa = XCVersionGroup;
 			children = (
+				631A94AE25CBF16A002F4C92 /* CoreDataIntro 2.xcdatamodel */,
 				631A948725CBEBA1002F4C92 /* CoreDataIntro.xcdatamodel */,
 			);
-			currentVersion = 631A948725CBEBA1002F4C92 /* CoreDataIntro.xcdatamodel */;
+			currentVersion = 631A94AE25CBF16A002F4C92 /* CoreDataIntro 2.xcdatamodel */;
 			path = CoreDataIntro.xcdatamodeld;
 			sourceTree = "<group>";
 			versionGroupType = wrapper.xcdatamodel;
